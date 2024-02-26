@@ -15,3 +15,6 @@ The model was trained on the MNIST dataset, which consists of 28x28 grayscale im
 
 ### Evaluation and Results:
 The trained model was evaluated on a separate test set from the MNIST dataset to measure its accuracy and generalization ability. Results were analyzed to determine the impact of dilated convolutions and parallel branches on the model's performance compared to a baseline neural network.
+
+Below shown image is the output on the Netron App:
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/prxbhu/Recognizing-Neural-Patterns/blob/main/Netron%20App%20Output.png)https://github.com/prxbhu/Recognizing-Neural-Patterns/blob/main/Netron%20App%20Output.png)
